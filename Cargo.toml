@@ -1,0 +1,5 @@
+# This is a global workspace for our rust-lang learning framework
+[workspace]
+members = [
+    "examples/hello"
+    ]
