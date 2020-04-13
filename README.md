@@ -1,6 +1,6 @@
 # This is the first ever repository for rust-lang learning framework
 
-## You are a 🦀 🌟 !
+### You are a 🦀 🌟 !
 
 ### A quick way through few resources to level up your knowledge...
 
@@ -49,7 +49,7 @@ Its design elements came from a wide range of sources.
 * Channels and Concurrency: **Newsqueak**, **Alef**, **Limbo**
 * Message passing and Thread failure: **Erlang**
 
-## To be continued...
+### To be continued...
 
 🙌🕵️[Detective Joe](https://twitter.com/jsjoeio)  
-🙌🕵️[Jane](https://twitter.com/yaahc_)
+🙌 [Jane](https://twitter.com/yaahc_)
