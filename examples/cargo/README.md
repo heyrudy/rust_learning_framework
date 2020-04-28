@@ -17,7 +17,7 @@ Cargo is Rust’s built-in package manager and the build system. It can be used 
 * Clean the **`target`** folder: `cargo clean`
 * Run the project: `cargo run`
 * Update project dependencies: `cargo update`
-* Run tests (**`doctests`** or file under **`test/`** folder): `cargo test`
+* Run tests (**`doctests`** or files under **`test/`** folder): `cargo test`
 * Run benchmarks: `cargo bench`
 * Generate the project documentation via rustdoc: `cargo doc`
 * Analyze the project to see it has any errors, without building it: `cargo check`
