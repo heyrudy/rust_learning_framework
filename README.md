@@ -50,8 +50,6 @@ Its design elements came from a wide range of sources.
 * Channels and Concurrency: **Newsqueak**, **Alef**, **Limbo**
 * Message passing and Thread failure: **Erlang**
 
-### To be continued...
-
 ### **Credits**
 🙌🕵️[Detective Joe](https://twitter.com/jsjoeio)  
 🙌 [Jane](https://twitter.com/yaahc_)
