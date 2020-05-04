@@ -51,4 +51,4 @@ Its design elements came from a wide range of sources.
 * Message passing and Thread failure: **Erlang**
 
 ### **Credits**
-🙌🕵️[Detective Joe](https://twitter.com/jsjoeio)  
+🙌🕵️[Detective Joe](https://twitter.com/jsjoeio)
