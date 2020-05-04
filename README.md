@@ -52,4 +52,3 @@ Its design elements came from a wide range of sources.
 
 ### **Credits**
 🙌🕵️[Detective Joe](https://twitter.com/jsjoeio)  
-🙌 [Jane](https://twitter.com/yaahc_)
